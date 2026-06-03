@@ -321,6 +321,54 @@ export const quotes: Quote[] = [
     game: "VALORANT",
     timestamp: "05/03/26 23:33",
   },
+  {
+    number: 53,
+    quote: "Come back when it's not little.",
+    game: "ROBLOX",
+    timestamp: "05/10/26 00:59",
+  },
+  {
+    number: 54,
+    quote: "I like holes.",
+    game: "VALORANT",
+    timestamp: "05/11/26 01:04",
+  },
+  {
+    number: 55,
+    quote: "I grab them firmly.",
+    game: "Rocket League",
+    timestamp: "05/22/26 00:15",
+  },
+  {
+    number: 56,
+    quote: "I disabled it. It was too big.",
+    game: "VALORANT",
+    timestamp: "05/23/26 00:15",
+  },
+  {
+    number: 57,
+    quote: "The history I have with belts...",
+    game: "VALORANT",
+    timestamp: "05/25/26 23:40",
+  },
+  {
+    number: 58,
+    quote: "I've never hit anyone without their consent.",
+    game: "Chess",
+    timestamp: "05/29/26 23:31",
+  },
+  {
+    number: 59,
+    quote: "You don't know what you're putting in your mouth?",
+    game: "VALORANT",
+    timestamp: "05/29/26 00:23",
+  },
+  {
+    number: 60,
+    quote: "I like giving it.",
+    game: "Chess",
+    timestamp: "05/30/26 18:36",
+  },
 ];
 
 if (import.meta.env.DEV) {

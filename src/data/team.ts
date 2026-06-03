@@ -5,6 +5,7 @@ import francisImage from "@/assets/team/francis.gif";
 import oracleImage from "@/assets/team/oracle.gif";
 import cherriosImage from "@/assets/team/cherrios.gif";
 import chicaImage from "@/assets/team/chica.jpeg";
+import nowatImage from "@/assets/team/nowat.jpg";
 
 export type TeamRole = "streamer" | "lead_moderator" | "moderator";
 
@@ -33,7 +34,7 @@ export const TEAM: TeamMember[] = [
     username: "LaymanLouie",
     twitchUrl: "https://www.twitch.tv/laymanlouie",
     image: laymanAvatar,
-    bio: "The one in the center of it all. I am Layman.\n\nI started streaming on a whim because a friend told me I would be good at it, and over time, it turned into something I genuinely love doing. While I can lock in every now and then, I'm always here for a good time, good laughs, and moments we'll randomly remember months later. BUT what's a good time if you're having it alone? I want people to feel welcomed when they step into The Layman's World. I want this to be a place where you can laugh, be yourself, and feel like you're actually part of what's happening. That's why I spend quite a bit of time building oppurtunties with Francis so people can do more than just watch from the sidelines. At the end of the day, I'm just someone trying to build a space where good people can vibe and have a good time together.",
+    bio: "The one at the center of it all. I am Layman.\n\nI started streaming on a whim because a friend told me I would be good at it, and over time, it turned into something I genuinely love doing. While I can lock in every now and then, I'm always here for a good time, good laughs, and moments we'll randomly remember months later. BUT what's a good time if you're having it alone? I want people to feel welcomed when they step into The Layman's World. I want this to be a place where you can laugh, be yourself, and feel like you're actually part of what's happening. That's why I spend quite a bit of time building oppurtunties with Francis so people can do more than just watch from the sidelines. At the end of the day, I'm just someone trying to build a space where good people can vibe and have a good time together.",
   },
   {
     id: "francis",
@@ -48,9 +49,9 @@ export const TEAM: TeamMember[] = [
     id: "nowat",
     role: "moderator",
     displayName: "Nowat",
-    username: "nowat101",
+    username: "nowat404",
     twitchUrl: "https://www.twitch.tv/nowat101",
-    image: PLACEHOLDER,
+    image: nowatImage,
     bio: `Hey, if you're reading this, don't be shyjust talk to me! I promise, I won't bite... well, maybe a little nibble, but that's just a love tap. I'm like a walking tornado of chaos and random decisions. Trying to guess what I'll do next? Spoiler alert: Youll never guess. The closer you get to me, the more unpredictable I become. But hey, if you ever need someone to talk to, I'm like an open book... with a few missing pages. Here for you, in all my weird glory!`,
   },
   {
